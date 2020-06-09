@@ -10,9 +10,9 @@ SHARED_SECRET TUTORIAL: https://github.com/SteamTimeIdler/stidler/wiki/Getting-y
 
 Contact Page: https://steamtimeidler.com/contact/
 
-Steam: http://steamcommunity.com/id/tirone
+Support Steam account: http://steamcommunity.com/id/tirone
 
-Twitter: https://twitter.com/SteamTimeIdler
+Twitter support: https://twitter.com/SteamTimeIdler
 
 Issues: https://github.com/SteamTimeIdler/stidler/issues
 
