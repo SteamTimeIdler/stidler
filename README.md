@@ -6,6 +6,8 @@ This repository is used for the issues section. Please post any website issues t
 
 If you would like to report a problem via a different method, you can contact us via these areas as well:
 
+SHARED_SECRET TUTORIAL: https://github.com/SteamTimeIdler/stidler/wiki/Getting-your-'shared_secret'-code-for-use-with-Auto-Restarter-on-Mobile-Authentication
+
 Contact Page: https://steamtimeidler.com/contact/
 
 Steam: http://steamcommunity.com/id/tirone
