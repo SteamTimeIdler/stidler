@@ -1,3 +1,9 @@
+ADMIN Steam account for support:
+http://steamcommunity.com/id/tirone
+
+Discord:
+Admin#9999
+
 ## Steam Time Idler
 
 ### Error support
@@ -9,8 +15,6 @@ If you would like to report a problem via a different method, you can contact us
 SHARED_SECRET TUTORIAL: https://github.com/SteamTimeIdler/stidler/wiki/Getting-your-'shared_secret'-code-for-use-with-Auto-Restarter-on-Mobile-Authentication
 
 Contact Page: https://steamtimeidler.com/contact/
-
-Support Steam account: http://steamcommunity.com/id/tirone
 
 Twitter support: https://twitter.com/SteamTimeIdler
 
